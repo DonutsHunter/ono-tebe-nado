@@ -7,7 +7,6 @@ https://github.com/DonutsHunter/ono-tebe-nado
 - [Скриншот](#скриншот)
 - [Макет](#макет)
 - [Автор](#автор)
-- [Pixel perfect](#pixel-perfect)
 
 ### Скриншот
 
@@ -20,10 +19,6 @@ https://github.com/DonutsHunter/ono-tebe-nado
 ### Автор 
 
 - Github - [Nikolay Vashentsev](https://github.com/DonutsHunter)
-
-### Pixel perfect
-
-![](Pixel_perfect.jpg)
 
 
 
