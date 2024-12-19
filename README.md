@@ -10,7 +10,7 @@ https://github.com/DonutsHunter/ono-tebe-nado
 
 ### Скриншот
 
-![](../images/1100.png)
+![](1100.png)
 
 ### Макет
 
@@ -22,7 +22,7 @@ https://github.com/DonutsHunter/ono-tebe-nado
 
 ### Pixel perfect
 
-![](../images/Pixel_perfect.jpg)
+![](Pixel_perfect.jpg)
 
 
 
