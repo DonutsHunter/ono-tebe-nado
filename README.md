@@ -7,6 +7,7 @@ https://github.com/DonutsHunter/ono-tebe-nado
 - [Скриншот](#скриншот)
 - [Макет](#макет)
 - [Автор](#автор)
+- [Pixel perfect](#pixel-perfect)
 
 ### Скриншот
 
