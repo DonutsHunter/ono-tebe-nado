@@ -11,7 +11,7 @@ https://github.com/DonutsHunter/ono-tebe-nado
 
 ### Скриншот
 
-![](1100.png)
+![](images/res_1100.png)
 
 ### Макет
 
@@ -20,10 +20,3 @@ https://github.com/DonutsHunter/ono-tebe-nado
 ### Автор 
 
 - Github - [Nikolay Vashentsev](https://github.com/DonutsHunter)
-
-### PixelPerfect
-
-![](pixelperfect.jpg)
-
-
-
